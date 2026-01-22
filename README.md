@@ -72,7 +72,7 @@ Netflix-Tableau-Dashboard/
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Overview](images/dashboard_overview.png)
-![Dashboard Detailed](images/dashboard_detailed.png)
+![Dashboard Detailed](images/dashboard.png)
 
 ---
 
